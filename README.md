@@ -1,5 +1,4 @@
-# Clin-mNGS
-Clin-mNGS: Automated pipeline for pathogen detection from clinical metagenomic data
+# Clin-mNGS : Automated pipeline for pathogen detection from clinical metagenomic data
 
 
 The Clin-mNGS pipeline is an integrated, open-source, scalable, reproducible, and user-friendly framework scripted using
