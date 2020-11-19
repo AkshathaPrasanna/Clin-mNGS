@@ -1,9 +1,3 @@
-
-#author: Akshatha
-#date: 28/02/2020
-
-
-
 configfile: "config.yaml"
 
 (IDS,PAIR) = glob_wildcards("data/fastq/{ip}_{pair}.fastq")
