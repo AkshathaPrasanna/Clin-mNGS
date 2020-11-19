@@ -1,3 +1,4 @@
+
 configfile: "config.yaml"
 
 (IDS,PAIR) = glob_wildcards("data/fastq/{ip}_{pair}.fastq")
