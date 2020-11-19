@@ -8,6 +8,13 @@ command-line tools and dependencies and can be deployed on most Linux workstatio
 The pipeline is currently automated to perform in quality check, filtering, host subtraction, assembly of reads into contigs, assembly metrics, relative abundances of bacterial species, antimicrobial resistance genes, plasmid finding, and virulence factors identification. 
 
 
+# Installation
+
+git clone https://github.com/AkshathaPrasanna/Clin-mNGS.git
+
+cd Clin-mNGS
+
+
 # Quick Start
 
 Commands to start analysing your data:
