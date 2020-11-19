@@ -19,7 +19,12 @@ Commands to start analysing your data:
     
 # Citation
 
-DOI : 10.2174/1574893615999200608130029
+
+Please cite the following pubication if you are using Clin-mNGS:
+
+Akshatha Prasanna* and Vidya Niranjan, “Clin-mNGS: Automated Pipeline for Pathogen Detection from Clinical Metagenomic Data”, Current Bioinformatics (2020) 15: 1. 
+
+
     
     
 
