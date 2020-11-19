@@ -17,6 +17,11 @@ Commands to start analysing your data:
     snakemake --use-conda --cores 16
     
     
+# Citation
+
+DOI : 10.2174/1574893615999200608130029
+    
+    
 
 
 
